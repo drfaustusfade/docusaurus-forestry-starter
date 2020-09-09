@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Products
   create: all
-  match: "**/*"
+  match: products/*.md
   templates:
   - product
 - type: directory
